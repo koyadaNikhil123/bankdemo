@@ -1,0 +1,2 @@
+cd C:\Users\nikil\eclipse-workspace\bankdemo
+mvn clean install
